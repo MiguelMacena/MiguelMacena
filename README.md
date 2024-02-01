@@ -1,6 +1,6 @@
 ### Olá, sou Miguel Macena!!
 
-- 🔭 Trabalho: Atualmente estou em busca do meu primeiro emprego na aréa de TI!
+- 🔭 Trabalho: Atualmente estou em busca do meu primeiro emprego na aréa de Análise de Sistemas
 - 🌱 Estudando:||SQL||JAVA||PHYTON || 
 - 🎧
 
