@@ -1,13 +1,4 @@
-### Olá, sou Miguel Macena!!
+### Build. Break. Learn. Repeat!!
 
-<b> “Build. Break. Learn. Repeat.”<b>
-
-
-<br>
-<br>
-
-
-
-<br>
 
  <footer> :) </footer> 
